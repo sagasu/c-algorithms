@@ -17,3 +17,7 @@ For windows 32bit to compile run
 For windows 64bit to compile run  
 `x86_64-w64-mingw32-gcc -o main64.exe addNumbers.c`
 
+# [DigitalClock](./DigitalClockWSLProgram/)
+WSL program to run:  
+`x86_64-w64-mingw32-gcc -o main64.exe digitalClock.c`  
+
